@@ -16,5 +16,7 @@
     "url": "https://github.com/prateekcom/adv-css/issues"
   },
   "homepage": "https://github.com/prateekcom/adv-css#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
 }
