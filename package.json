@@ -1,16 +1,16 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "Landing page adv-css project",
+  "description": "landing page project",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css "
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prateekcom/adv-css.git"
   },
-  "author": "prateek",
+  "author": "prateekcom",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/prateekcom/adv-css/issues"
